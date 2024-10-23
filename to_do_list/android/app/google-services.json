@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115787446582",
+    "project_id": "to-do-list-ad839",
+    "storage_bucket": "to-do-list-ad839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115787446582:android:a8f734ece3aac9c00b9b97",
+        "android_client_info": {
+          "package_name": "com.hafid.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP42r_YXfHfmtnq_jfqYRRKdEKmrIYgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
